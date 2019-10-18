@@ -1,0 +1,21 @@
+D:\BootCamp07\C#\Repos\Labs\KinoProject\bin\Debug\KinoProject.exe.config
+D:\BootCamp07\C#\Repos\Labs\KinoProject\bin\Debug\KinoProject.exe
+D:\BootCamp07\C#\Repos\Labs\KinoProject\bin\Debug\KinoProject.pdb
+D:\BootCamp07\C#\Repos\Labs\KinoProject\obj\Debug\KinoProject.csprojAssemblyReference.cache
+D:\BootCamp07\C#\Repos\Labs\KinoProject\obj\Debug\KinoProject.csproj.CoreCompileInputs.cache
+D:\BootCamp07\C#\Repos\Labs\KinoProject\obj\Debug\KinoProject.exe
+D:\BootCamp07\C#\Repos\Labs\KinoProject\obj\Debug\KinoProject.pdb
+D:\DOWNLOADS\CB7_Materials\Projects\KINO\KinoProject\bin\Debug\KinoProject.exe.config
+D:\DOWNLOADS\CB7_Materials\Projects\KINO\KinoProject\bin\Debug\KinoProject.exe
+D:\DOWNLOADS\CB7_Materials\Projects\KINO\KinoProject\bin\Debug\KinoProject.pdb
+D:\DOWNLOADS\CB7_Materials\Projects\KINO\KinoProject\obj\Debug\KinoProject.csprojAssemblyReference.cache
+D:\DOWNLOADS\CB7_Materials\Projects\KINO\KinoProject\obj\Debug\KinoProject.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS\CB7_Materials\Projects\KINO\KinoProject\obj\Debug\KinoProject.exe
+D:\DOWNLOADS\CB7_Materials\Projects\KINO\KinoProject\obj\Debug\KinoProject.pdb
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\KINO\KinoProject\bin\Debug\KinoProject.exe.config
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\KINO\KinoProject\bin\Debug\KinoProject.exe
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\KINO\KinoProject\bin\Debug\KinoProject.pdb
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\KINO\KinoProject\obj\Debug\KinoProject.csprojAssemblyReference.cache
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\KINO\KinoProject\obj\Debug\KinoProject.csproj.CoreCompileInputs.cache
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\KINO\KinoProject\obj\Debug\KinoProject.exe
+D:\DOWNLOADS\CB7 (InProgress)\myProjects\KINO\KinoProject\obj\Debug\KinoProject.pdb
